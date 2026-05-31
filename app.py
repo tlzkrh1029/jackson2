@@ -83,8 +83,9 @@ SYMBOL_OVERRIDE = {
 
     # ================== streamlit 링크생성하였더니 문제생긴 종목들 ==================
     'SUI':    ('SUI',      'SUI20947-USD', 'yfinance_first'),
+    'TAO':    ('TAO',      'TAO22974-USD', 'yfinance_first'),
+    'ASTER':    ('ASTER',  'ASTER36341-USD', 'yfinance_first'),
 
-    
 }
 
 # ================== 숫자 포맷팅 ==================

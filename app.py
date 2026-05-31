@@ -81,7 +81,8 @@ SYMBOL_OVERRIDE = {
     'RAVE':    ('RAVE',      'RAVE38967-USD', 'yfinance_first'),
     'SAFE':    ('SAFE',      'SAFE21585-USD', 'yfinance_first'),
 
-
+    # ================== streamlit 링크생성하였더니 문제생긴 종목들 ==================
+    'SUI':    ('SUI',      'SUI20947-USD', 'yfinance_first'),
 
     
 }
